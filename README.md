@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anirudhcode
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @anirudhcode.
+- 👀 I’m interested in coding and technology.
+- 🌱 I’m currently learning OpenCV and other computer vision projects and a bit of cybersecurity.
+- 💞️ I’m looking to collaborate on any projects I could help on.
 - 📫 How to reach me- Email me on anirudhx17@gmail.com
 
 <!---
