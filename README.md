@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhcode&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhcode" /> </p>
 
-- 🔭 I’m currently working on [a full stack API and data visualization project](https://github.com/anirudhcode/apiserverproject)
+- 🔭 I’m currently working as a lead backend developer and DevOps engineer.
 
 - 🌱 I’m currently learning **Nginx, Django Rest Framework, React, D3.js**
 
