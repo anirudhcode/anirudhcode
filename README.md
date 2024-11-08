@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anirudhcode/](https://github.com/anirudhcode/)
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, Cloud, DevOps and Linux**
 
 - 📫 How to reach me **anirudhcode@icloud.com**
 
