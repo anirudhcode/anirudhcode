@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a lead backend developer and DevOps engineer.
 
-- 🌱 I’m currently learning **Nginx, Django Rest Framework, React, D3.js**
+- 🌱 I’m currently learning **Distributes Systems, EDA and Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anirudhcode/](https://github.com/anirudhcode/)
 
